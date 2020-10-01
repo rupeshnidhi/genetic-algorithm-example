@@ -11,3 +11,7 @@ pip install -r requirements.txt
 ```sh
 python ga.py
 ```
+
+### Result using 50 generations,
+
+<img src="./result.png">
